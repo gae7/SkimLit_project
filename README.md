@@ -1,6 +1,7 @@
 # SkimLit_project
 
 In this notebook we replicate the model in Figure 1 of the following paper: https://arxiv.org/pdf/1612.05251.pdf.
+
 The idea is to train a model to efficiently skim through the abstracts of randomized controlled trials, using a dataset called "PubMed 200k RCT" which consists of ~200,000 labelled Randomized Controlled Trial (RCT) abstracts. 
 Automatically classifying each sentence in an abstract would help researchers read abstracts more efficiently.
 
